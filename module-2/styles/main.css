@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    width: 600px;
+    margin: 40px auto;
+}
+thead{
+    background: azure;
+}
+tbody{
+    background: yellow;
+}
